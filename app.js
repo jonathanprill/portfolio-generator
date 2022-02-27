@@ -186,4 +186,4 @@ promptUser()         // We start by asking the user for their information with I
   })
   .catch(err => {
     console.log(err);
-});
+  });
